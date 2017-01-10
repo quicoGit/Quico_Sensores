@@ -11,6 +11,7 @@
     tools:context="com.plumbaria.sensores.MainActivity">
 
     <TextView
+        android:id="@+id/salida"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
